@@ -97,9 +97,6 @@ nav:
         - 数据管理: "code_modding/basics/session_settings_savedata.md"
         - 输入获取: "code_modding/basics/input_handling.md"
         - 碰撞检测: "code_modding/basics/collision_detection.md"
-        - 资产管理: "code_modding/basics/asset_management.md"
-        - 简单渲染: "code_modding/basics/simple_rendering.md"
-        - 音频交互: "code_modding/basics/audio_interaction.md"
     - 进阶:
         - 钩子:
             - 前言: "code_modding/advanced/hooks/index.md"
